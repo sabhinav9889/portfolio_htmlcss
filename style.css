@@ -1,0 +1,150 @@
+#div_intro1{
+    position: absolute;
+    font-size: 4rem;
+    top: 8rem;
+    left: 36rem;
+    color: #66BFBF;
+    font-family: cursive;
+}
+#div_intro2{
+    position: absolute;
+    font-size: 2rem;
+    top: 17rem;
+    left: 40rem;
+    color: #66BFBF;
+    font-family: monospace;
+}
+#cloud1{
+    margin-left: 215;
+    margin-top: 367;
+    position: absolute;
+    left: 5rem;
+}
+#cloud2{
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+#cloud1{
+    position: absolute;
+    margin-top: 23rem;
+    margin-left: 6rem;
+    margin-bottom: 65rem;
+}
+#mountain{
+    margin-top: 23rem;
+    margin-left: 0rem;
+}
+ul{
+    list-style: none;
+    display: inline;
+}
+li{
+    cursor: pointer;
+    color: #11999E;
+    display: inline;
+    margin-top: 7rem;
+    padding: 2rem 1rem;
+    font-weight: bold;
+}
+header{
+    text-align: center; 
+    background-color:rgb(87, 112, 24);
+}
+nav{
+    margin-top: 1rem;
+}
+footer{
+    padding: 2rem;
+    margin-bottom: 0%;
+    background-color:black;
+    text-align: center;
+    height: 6rem;
+}
+body{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+#des_div1{
+    margin-top: 1rem;
+    display: inline-block;
+    text-align: left;
+    line-height: 1rem;
+}
+.p{
+    line-height: 1.5rem;
+}
+#img1{
+    width:  25%;
+    float: left;
+    margin-right: 4%;
+    margin-top: 5%;
+}
+#img2{
+    width:  25%;
+    float: right;
+    margin-right: 0%;
+    margin-top: 3%;
+}
+.img_main{
+    width: 20%;
+    height: 20%;
+    margin-left: 25rem;
+}
+.h2{
+    text-align: center;
+}
+#id1{   
+    margin-left: 15rem;
+}
+#h21{
+    margin-bottom: 2rem;
+    margin-left: 19rem;
+}
+#des_div2{
+    margin-top: 30px;
+    margin-right: 53rem;
+    line-height: 1rem;
+    display: inline-block;
+    text-align: left;
+}
+#des_div3{
+    margin-top: 30px;
+    margin-left: 35rem;
+    line-height: 1rem;
+    margin-bottom: 0.3rem;
+    display: inline-block;
+    text-align: left;
+}
+#skill_div{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#div4{
+    margin-top: 1rem;
+    line-height: 2rem;
+}
+#butt{
+    cursor: pointer;
+    color: whitesmoke;
+    background-color: #11999E;
+    border-radius: 10px;
+}
+main{
+    background-color:brown;
+}
+.h2{
+    color:#4fcfc9;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.h3{
+    color: #dc9a45;
+}
+.p{
+    color:wheat;
+    font-family: sans-serif;
+}
